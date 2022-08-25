@@ -11,6 +11,7 @@ h1 {
 .row {
   margin-top: 50px;
   font-family: "Philosopher", sans-serif;
+  text-align: center;
 }
 .fa-cloud {
   display: block;
